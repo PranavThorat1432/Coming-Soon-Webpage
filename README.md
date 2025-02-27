@@ -29,7 +29,7 @@ Welcome to the **Coming Soon Webpage** project! This is a beautifully designed l
 
 ## 🎥 Demo
 
-🚀 **Live Preview:** [Click here to view](#) (Add your hosted link here)
+🚀 **Live Preview:** [Click here to view](https://coming-soon-webpage-bice.vercel.app/) 
 
 ---
 
