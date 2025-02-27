@@ -11,10 +11,15 @@ Welcome to the **Coming Soon Webpage** project! This is a beautifully designed l
 ## 📌 Features
 
 ✅ **Fully Responsive Design** – Works seamlessly on all devices.
+
 ✅ **Animated Countdown Timer** – Real-time countdown to the launch date.
+
 ✅ **Engaging UI/UX** – Stylish typography, smooth transitions, and animations.
+
 ✅ **Rocket Animation** – A dynamic launch animation for an exciting effect.
+
 ✅ **Customizable** – Easily modify the launch date, styles, and text.
+
 ✅ **Performance Optimized** – Efficient and lightweight code.
 
 ---
