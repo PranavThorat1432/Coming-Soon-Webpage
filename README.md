@@ -1,6 +1,6 @@
 # 🚀 Coming Soon Webpage
 
-![Project Screenshot](images/screenshot.png)
+![Screenshot 2025-02-27 194551](https://github.com/user-attachments/assets/2568857d-524d-4712-8858-28993af35fe0)
 
 ## 🌟 Introduction
 
